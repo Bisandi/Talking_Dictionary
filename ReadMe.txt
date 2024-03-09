@@ -4,3 +4,5 @@ This Talking dictionary gives you the following facilities :
  *Listen to the pronounciation of the word
  *See the meaning of the word searched
  *Listen to the meaning of the word
+
+libraries used: Tkinter, Pillow
